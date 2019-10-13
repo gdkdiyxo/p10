@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;     
+ }
+
+ div{
+    width: 350px;
+    height: 500px;
+    background: #ffffff;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border: 1px solid #000;
+    font-size: 20px;
+    text-align: center
+ }
+
+ button{
+    height: 75px;
+    width: 200px;
+    font-size: 16px;
+ }
