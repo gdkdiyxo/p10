@@ -5,64 +5,86 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Welcome Future Intern</h1>
+  <div class="custom-padding">
+    <nav>
+      <div class="logo">Rutgers Internship Service</div>
+  
+      <ul class="menu-area">
+        <li><a href="#">Find Jobs</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Sign Up</a></li>
+        <li><a href="#">Log in </a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
 
-    <div class="find">
-        <input type="text" placeholder="Search for Internships">
-          <select>
-            <option value="">Select</option>
+    <div class="filter">
+      <form id="filterJobs">
+        <p><b>Filter internships by Area</b></p>
+        <input type="text" placeholder="">
+          <select>            
+            <option value="">None</option>
             <option value="">State</option>
             <option value="">City</option>
-            <option value="">Major</option>
-            <option value="">Company</option>
-            <option value="">Position</option>
+            <option value="">Zip Code</option>
             </select>
-            <!-- <input type="submit" name="submit" value="Find"> -->
 
-        <p>Filter internships by type:</p>
+        <p><b>Filter internships by Type:</b></p>
         <input type="checkbox" name="skill1" value="Front"> Front End Dev
         <input type="checkbox" name="skill2" value="Back"> Back End Dev
         <input type="checkbox" name="skill3" value="Full"> Full Stack Dev
         <input type="checkbox" name="skill4" value="ML">Machine Learning
         <input type="checkbox" name="skill2" value="DataS">Data Science<br><br>
         <input type="submit" value="Submit">
+        </form> 
     </div>
 
     <div id="grid">
+      <!--When the data is externalized, ideally the JSON will include the company, short 
+      description of the internship, a location for a logo image, and a link to the internship
+      listing-->
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="googleLogo.png">
+        <p><b>Available Internship at Google</b></p> 
+        <button class="btn" onclick="location.href='https://careers.google.com';">Click for More Information</button>
+    </div>
+
+      <div class="listing">
+        <img src="spaceXlogo.png">
+        <p><b>Available Internship at Space X</b></p>
+        <button class="btn" onclick="location.href='https://www.spacex.com/careers';">Click for More Information</button>
       </div>
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="prudentialLogo.png">
+        <p><b>Available Internship at Prudential</b></p>
+        <button class="btn" onclick="location.href='http://jobs.prudential.com/';">Click for More Information</button>
       </div>
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="icimslogo.png">
+        <p><b>Available Internship at iCims</b></p>
+        <button class="btn" onclick="location.href='https://careers.icims.com/';">Click for More Information</button>
       </div>
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="microsoftLogo.png">
+        <p><b>Available Internship at Microsoft<b></p>
+          <button class="btn" onclick="location.href='https://careers.microsoft.com/us/en/';">Click for More Information</button>
       </div>
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="JJLogo.png">
+        <p><b>Available Internship at Johnson&Johnson</b></p>
+        <button class="btn" onclick="location.href='https://www.careers.jnj.com/';">Click for More Information</button>
       </div>
 
       <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
-      </div>
-
-      <div class="listing">
-        <p>Available Internship at X Company</p>
-        <button class="btn">Apply</button>
+        <img src="etsyLogo.png">
+        <p><b>Available Internship at Etsy<b></p>
+          <button class="btn" onclick="location.href='https://www.etsy.com/careers#engineering';">Click for More Information</button>
       </div>
 
     </div>
