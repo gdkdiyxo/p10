@@ -1,5 +1,5 @@
 # CS491: Senior project
-#iCIMS
+# iCIMS
 Our product serves to effectively provide college students with internships offered at various companies.
 We believe that current employement systems such as indeed 
 fail to provide sufficient internship opportunities that cater to students'
@@ -11,7 +11,7 @@ you. Using iCIMS, you are undoubtedly assured to attain an internship.
 ![](iCIMS.png)
 ![](internships.png)
 
-###Contributors
+### Contributors
 * Amy Tenegelics
 * David B
 * Ira Streeter
