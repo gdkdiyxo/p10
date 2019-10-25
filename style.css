@@ -1,6 +1,6 @@
 body{
    text-align: center;
-   background: url(hexBG.png);
+   background: url(images/hexBG.png);
    background-size: cover;
    background-position: center;
    opacity: .8;
@@ -94,11 +94,11 @@ nav:after {
    padding-bottom: 1em;
    background: whitesmoke;
    border: 2px solid black;
-   font-size: 15px;  
+   font-size: 15px;
 }
 
  #grid{
-   
+
    border-radius: 20px;
    margin: auto;
    width: 90%;
@@ -131,8 +131,8 @@ nav:after {
  }
 
  img{
-  
-  max-width: 100px;  
+
+  max-width: 100px;
   float: left;
   padding-left: 100px;
   padding-top: 20px;
