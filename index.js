@@ -1,15 +1,18 @@
 
-var obj = {"Positions" :[ {"name" : "google" , "link" : "https://careers.google.com", "job": "Test 1 Description"},
-{"name" : "prudential" , "link" : "http://jobs.prudential.com/", "job": "Test3"},
-{"name" : "spacex" , "link" : "https://www.spacex.com/careers", "job": "Test 4"},
-{"name" : "microsoft" , "link" : "https://careers.google.com", "job": "Test 5"},
-{"name" : "icims" , "link" : "https://careers.icims.com/", "job": "Test 6"},
-{"name" : "jj" , "link" : "https://www.careers.jnj.com/", "job": "Test 7"},
-{"name" : "etsy" , "link" : "https://www.etsy.com/careers#engineering", "job": "Test 8"}]};
+var request = new XMLHttpRequest();
+request.onreadystatechange = function(){
+  if (this.readyState == 4 && this.status == 200) {
+    var obj = JSON.parse(this.responseText);
+    displayPositions(obj);
+  }
+};
+request.open("GET", "data.json", true);
+request.send();
 
 
+function displayPositions(obj){
 var listingDiv = document.getElementById("grid");
-var myobj =obj.Positions;
+myobj = obj.Positions;
 
 for (var i in myobj) {
   var div = document.createElement("div");
@@ -42,4 +45,6 @@ for (var i in myobj) {
 		}
 
   listingDiv.appendChild(div);
+}
+
 }
