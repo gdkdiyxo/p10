@@ -138,3 +138,11 @@ nav:after {
   padding-top: 20px;
   margin-right: -175px;
  }
+
+#myInput{
+  width: 90%;
+  font-size: 18px; /* Increase font-size */
+  padding: 10px 10px 10px 10px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 8px; /* Add some space below the input */
+}
