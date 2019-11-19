@@ -17,7 +17,7 @@ class Navbar extends React.Component{
               <li><a href="#">Find Jobs</a></li>
               <li><a href="#">About</a></li>
               <li><a href="#">Sign Up</a></li>
-              <li><a href="#">Log in</a></li>
+              <li><a href="https://navpagemocklogin.s3.us-east-2.amazonaws.com/mocklogin.html">Log in</a></li>
               <li><a href="#">Contact</a></li>
             </ul>
           </div>
