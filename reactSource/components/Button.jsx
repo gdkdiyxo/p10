@@ -1,7 +1,7 @@
 import React from "react";
 
-function Button(){
-  return(<button>Greatness Awaits</button>);
+function Button(props){
+  return(<button>{props.name}</button>);
 }
 
 export default Button;

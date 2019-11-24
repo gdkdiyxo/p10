@@ -7,7 +7,7 @@ function Listing(props){
     <tr className="listing">
       <td>{props.company}</td>
       <td>{props.position}</td>
-      <td> <a href={props.link} target="_blank"> <Button /></a> </td>
+      <td> <a href={props.link} target="_blank"> <Button name="Greatness Awaits"/></a> </td>
     </tr>
 
 );
