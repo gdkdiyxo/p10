@@ -8,12 +8,11 @@ big companies is extremely challenging, whereas only a handful of interns are se
 and a significant amount are deemed unfit. Thus, iCIMS serves as a platform, or home rather,
 for internships. Based on the user's preferences and skills, it makes a vast amount internships readily available to
 you. Using iCIMS, you are undoubtedly assured to attain an internship.
-![](iCIMS.png)
-![](internships.png)
+[ICIMS](https://www.icims.com/)
 
 ### Contributors
 * Amy Tenegelics
-* David B
+* David Balladares
 * Ira Streeter
 
 
