@@ -16,7 +16,7 @@ function App() {
       <Heading />
       <SearchTool />
       <Table />
-      <CheckBox/>
+      
     </div>
   );
 }
