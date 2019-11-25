@@ -23,7 +23,7 @@ function mySearch(){
 function SearchTool(){
   return(
     <div>
-    <input id="input" type="text" placeholder="Search" onKeyUp={mySearch}/>
+    <input id="input" type="text" placeholder="Search for Jobs" onKeyUp={mySearch}/>
     </div>
   );
 }

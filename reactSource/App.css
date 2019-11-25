@@ -29,4 +29,15 @@ position: relative;
 z-index: 1;
 font-weight: bold;
 }
-
+#logo {
+  width: 50%;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 25%;
+  text-shadow: 2px 2px darkred;
+  text-decoration: underline overline;
+  text-decoration-color: darkred;
+  
+}
