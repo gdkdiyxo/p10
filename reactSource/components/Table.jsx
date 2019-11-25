@@ -7,7 +7,6 @@ var customStyle = {
   marginTop: "1em",
   border:"6px solid white",
   width:"100%",
-
 };
 
 var object = {jobs:[
