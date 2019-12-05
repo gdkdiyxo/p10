@@ -1,6 +1,87 @@
 {
-  "items": [
-    { "id": 1, "name": "Apples",  "price": "$2" },
-    { "id": 2, "name": "Peaches", "price": "$5" }
-  ]
+    "jobs-internships": [
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DjqY-5FTLZ9sGqV1NdtUFS0adUf_1WjOQKs6vVybF7K82NsaFo-VtKdWV4Z1tHMNE1rxWvj40ldS-Wojxk68STj4VAbtgpQxWkka2gXxjZ6KBeQq032c_jvIxESoVjIq9MS-jf-cOGeqWiqXNObdOHNgbTpxf2cZOXRUKyQ0GtyUX3EIlzFCwNkBC3bFIbQkq4ZM5AlxLpde2BVEbwiSJMcJZBezO3RcpaoPii9nYSTERVudGl7oKNCSVvUimok9JP8BY-BIEAXFXaup476uJONfUtk9iSJSdhH72OT4dZYhW88xxtRia8PLkR72R1ZAw-2V5tlwT_uoaJZ_74JJ5RPOQbEQ3rDi59UCvvPmjDFZP1n1s5VGFgD2Fr0_GYXxjqOSyeztpqp1FKNKAXp6fp&p=0&fvj=0&vjs=3",
+            "position": "Systems Engineer Intern (Various Locations)",
+            "type": "Systems (Various Locations)"
+        },
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AFrnm6l0o752T9lqNtNyel_ta7awBNhEEdV2LITTAqLYIMe5yLyqjac_aXGls5YnY1LsGFRszXqLmW9zDg9DuGrUlvia0hcYMmFqTK7r30kxEayRlMcwCZ8OspiOeLWiAFT1RoQEv8E7s7KN4O8DEGaLG2VtTazTxqCYnW-CG9mKcJtuf3PthcRyUqgI0Y_0MqS6dC3KP9AYvTGtmdV8MLQE9XRE3bR-G3RqtA4moLEryRMSz4CJt3A4zH5MGayesryQBdufVgGOO4rZnTxdMS84Onkbvx9-pCSwWbCWqygl7xedoT1rbL8IBqk5GU3tDWg2hYP7JWrYXx2W1YTbdejmTr0EfAdSRkJVu_AT_nBe53A1NWjNuRjszGxvOO1fMI7MB0lEQUFLALW393gGxJYfiC4rFx6qtoe-3i9OU3WgRlME5nNTyzoNeXZIKH1B2WENjLDoWJYDABa7OT1lt9qkhUi37GiaGwXmsZ45bnSUcUphSoIRNObNSm-hvK-wxhIrCGQg3MTUrCtAH0SpsLCGU_7fqB2N80_KCLaQ4sSnbLAPpNrDpGPJRO2wFCowcCFDkgbp0sNSJjsx5tDND5hQrPWmGCZX_8w4ZSPIPFVHlh6xI06RWjOytvTAoVOCU=&p=1&fvj=0&vjs=3",
+            "position": "Investigative Intern, Internal Affairs & Discipline",
+            "type": "Investigative al Affairs & Discipline"
+        },
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D5Ba3iyxqc15nPLDvLlqLQSG0JLYhUbmiURe6qLHfJpzy_imgBkE2gy1Y8Yq9sJI-gi6ii9L_EF61ppsg5-0KxdyOBIKw0vwd1aCPAhaFzwK9EiXsjfp8r7MXhZA2Lj9XilhHTMN_B4RtYPXLcjjSEMM3pikzTStt1ZUNTiK0wna7-nk62txY3S_FkKDbaaBqoalZv9f9HVOReJRRQJf0PwU7qcYEuf0LZR91czaZ192ubcbqQxMOTweXUMzArPP2FL8PVg5rpuoY9ecFnBs2rcUlPNgmZfjO3UcrudW_H05U-9lW5kHGku4xk-2qm0DE7KIPh9Oe82yPWDIl5snJNzfy52bB0iSLlORFVQO2qmh8LGnYU1F5ttx52T-qVlSEMOn0ddrJQ7QL-bFRuKAkHj-x91Is2dhpuDkBnat9v7XrAfXGZxVA8yHnuNBg1OvwCzsZVnT0jMnHZc0Enq1l3_wog6yfweFRJNNSYj78TYAxzqBh6pJlD13l-Ai_IJ1Jjued3UuUa_oLLBzFx-2MEs9zzfCmIUjCLBW4uJD0xlPUDiwSJ-oY-0OFK0qqqjr6yH31dU02-YXPMLZmQMvoafovt9PmnLDcESnjBjOoVYwnkcGy8x4rg0IdNzDhSdxmLCKpne_QK-veLX8vD0_1WZkasbouMW75QUyuBlVbmCxGq0ZErOaUZMbx0nZPNTIdhDiGu4eKruNrfQUNYziy0zbWgQcZgdarym3aMDvE1N4rQYkQXDqQA3ubAqoAIC7E06A_X-wxwkViXdxwH95rCwPhlN-s-z1963AopNn5A_oTGXUPjn06Gp_29wYME4mn-YnS0LGBqEzxfeIFZ3V_NcK-RZZGfRl3r20Pr7lHHeKypkLnmzFqi-wWwxeZxcM68iIqP2FlRLYnntAvZ7BQENa51IhxpgJ1UPCJCxXz0MYItXsw2wZxT0VORHDgl2RdsVgXjuTbbclDWaKz4rewLy8_CNj3gX-v-WMWTS8ZvJ1sZu9gFbtQDoKGpWTOTm-mO3QfaRwHSHJ5v_W72dRulktT_fIMbfp0xocXOSLuD514a1ozQPJRxqM4Ah1o9WQQde0lxYCCCZ1NuMkRhb-HgJo_frw5757KYxcRYlIWTte46HD7G7ABP8tDez2Y_BvX5iYDSCIdoZYFIy3QiHZz7ZNu6LulUjXa-jqW-JPpjdEWq8YKjXKQ4RzARMZGcCUStVxirhwtGKg==&p=2&fvj=0&vjs=3",
+            "position": "Data Science Internship (Undergraduate)",
+            "type": "Data Science (Undergraduate)"
+        },
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DK2C-pmrF0sqrfJr4Li3c4X7YMnrkXddQXZaL_6xg-NaZDhEHQlgWTLzxFe0goQCkyxMtYswpyYC2QmTTvj2MKsjhFA9EJiuu4uYCxK8iK-juDSdkfdjQqno6Y1CNwiaBhgSdB5B8vfxmVjmDFl9gJ0csGvWxqd662Pu4RV3bMTpqvAzl341TQGhBmQQHs6mbr3bLr2n0N6ZSGjyKqg4CPbyKzBjBBSGErJAPQOJ5NlDCJ1TH7fd7Hc6jOWcwGsxQFqIxkfl5EN5peVyrLeonEfAxICtOQPYUVHrYg7Hc_tPb2UPK4mW-XfKkWVRvgP_82SSGH5YpQ2NvH2bKLYfVBsQzlc5a3J2uAI_BBP74gp_Kfa3X3jSYr3UpLzcg8Lfr2Fbi_Tq2JPvKcGdfQl_mlEbGMK2wAgm0I_zJxUsXbh9-m8CpYk-1q7BoglNoxy2B2fhVDdJm6QGGvn2QacFtARKYlORLIsfEqp4A4Lp0to3CIyUq3QJzHD1xY3eP1i8WBGrf-FVfa2hx_Kw_UndA3PhuzMhEK6bCcGo-b6-f_f4QgOrHv4ldQt8nCV4G0f7G7Usaqelklq4wbM26o2YU8V5u7iqCSrHYDVQG5-cK_jNvNHxLkgDLfc1N6RD5oaR7iVhT62zbRuSrMtkQcKGIGPRo7qjvwvDW79WVK3gMZr87apRN33ONA&p=3&fvj=0&vjs=3",
+            "position": "Paid Federal Training & Leadership Programs",
+            "type": "Paid Federal Train & Leader Programs"
+        },
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ADJRuK6ChiwKA-mDQcZewxwPXsbrQsc0mRFei-KJ6Xzxx8q1wZUJIQEthlNS53SBl2a3k0rLgTFGdlHlREOhDcAEaorCe-4VtDMuxzk3LAQ6qZ8CIPaG01y-cyNZ11UlF1Uy1wX_Hqzro6fyifibSH-kv1-F94stXt6XiMjOseu2ypfSAgiZ2IRcoTmdJAcx3pknfoZUDndYSjvt5spU6W27yZaxYhLmXRbUNgULvdjLC4QWIFfdxDUcWf8NZTfyDhhB_F8Iz05Tchnmw6R2KcBooUVv88kqcshmz8Larn1FIINBst0ZPdJATgRRWAKqCG-IqZMH5-g4PUPJxIBLjU2Ux2iVX2e10UG7VDOGvwmBtEOSP4Vni1j_NoVL7AvwnEAU0jO_WaPgmdsueJE0nbdiOp78AGD4kAKvg3NqRIbVPDAI5QgQX10oTMBT4-_HlCyC9vIqvfbAjfSaVWg-KGDbdfGnn8z_kVY0HtvHXD1w5smYWYQOs2wYjyWvtAfjP6cnTu6M6Zhbf7_Wbk43PsAnCwAv1w-RevAg5wh3oxMXeD3qenkfdLEgkXgmEfai5645wpN9u2YwyKuXbXRaLYneEAHNBcrTaU-jhy32WCvuSNymLZB1JP9-a3OxIxAdRwfcOVPicaattC5FiMaitm5XFyFDCfmZsnz6_kaqJGPezUmScmphC1TPUB7yzIzkTwS5MIyo3J3Oqk4m86B7y5pfUMdmEOudId2c1tJxVNLlIODdXCWRLdKZoz5NICZLO-YhzXUCvzRQ6yDNZTYYiRWawns2wfQdcBYqL5ArU0UQ4np-BJeQ62fMVI7fFL3erE_XFtiHpa3uiV8Qbg1OP7NBQP_SEAaMlZlOD1PBoO8KHrIogzKaep5hRKs661mjKBbIFUtnfw3g==&p=4&fvj=0&vjs=3",
+            "position": "Digital, Tech, Informatics (IT) Internship - Summer 2020",
+            "type": "Digital Tech Informatics (IT) Summer 2020"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=72d812527e62fad7&fccid=f52c661573435f2a&vjs=3",
+            "position": "IT Intern",
+            "type": "IT"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=9919d4700f217000&fccid=35d653c09c2712b6&vjs=3",
+            "position": "Data Science Summer 2020 Internships – New York, NY",
+            "type": "Data Science Summer 2020 s – New York NY"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=fdb73644d572b1af&fccid=e6d4ba9e2cfe7902&vjs=3",
+            "position": "2020 Summer Software Engineer, Intern",
+            "type": "2020 Summer"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=a7baeb89390805d2&fccid=73a66bd1ffb12cba&vjs=3",
+            "position": "Software Engineering Intern - Summer 2020",
+            "type": "Summer 2020"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=df5bdf414c971d29&fccid=9ecb91618c39a24f&vjs=3",
+            "position": "Data Science Internship - Summer 2020",
+            "type": "Data Science Summer 2020"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=599915a6c4140c3b&fccid=35d653c09c2712b6&vjs=3",
+            "position": "NBC News & MSNBC Digital Tech Summer 2020 Internships – New...",
+            "type": "NBC News & MSNBC Digital Tech Summer 2020 s – New..."
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=4f5aa8a3c3a1a871&fccid=25b5166547bbf543&vjs=3",
+            "position": "Engineering Intern - NYC (December 2020 or Spring 2021 Grads...",
+            "type": "NYC (December 2020 or Spr 2021 Grads..."
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=95fb44b6ee3f542c&fccid=0efe3e25ee20de25&vjs=3",
+            "position": "Cyber Security Intern Urban Tech",
+            "type": "Cyber Security Urban Tech"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=29f49c9836d75af1&fccid=1639254ea84748b5&vjs=3",
+            "position": "Software Engineer, Intern/Co-op",
+            "type": "Coop"
+        },
+        {
+            "link": "https://www.indeed.com/rc/clk?jk=909cc4ec0262ad81&fccid=0efe3e25ee20de25&vjs=3",
+            "position": "Cyber Security Intern Security Science",
+            "type": "Cyber Security Security Science"
+        },
+        {
+            "link": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D5Ba3iyxqc15nPLDvLlqLQSG0JLYhUbmiURe6qLHfJpzy_imgBkE2gy1Y8Yq9sJI-gi6ii9L_EFwjnSlMTl2yQBo11Je6U9el9GD_tbxGD7iOHsMP4x7YPxPUJ3a-rKCDOUNco_Zq1ZXcBjSltELzRzDC0YUa6stPMepBH5maxtCsFPH1avmD2tOXHK9yWqkzSYkeiDU6C7DxmQUGG5eponawIOfPYFx-PJECyIGd1Qb5PT-sR9nntVpol8WY8t0njJVDY8mgJ37B4S5JYnrXNBnycwnw5vbdbJtDEkRtxIpi7qf5vvUY_N7F2VNzB4j-hvWY183r9AhO4ohbgYql7xUuk7vUSn7aaUlKejXEF4pS_LZP5CQn7anhZ1L1Iid61Q9IvHDxSKOSS4bvSHA_gkP9vvDtXPBcjsE74BTUK3tBJWH2YxxHR_7q-0KMtZq6Ha7XxYg94LeL23h_aOsQLcd-S1i37pKK6pDDVqtmS6TV2fT08njIxILnK3yNE7jqDbEVUy7EyZN7z1DgTcWQ0YxZnCmI0YA7Pd80l-dczehTg5l5PWo79CEmi_haq2tDmuFa7rkNX6ErWR8joCqqteVIKrdQvrkOUapQ5HQdj240GYfnmYLiuFYZGae0ZqQOxhv7Qa098JLQdOCs5fPs8C_kW7PQCrBZAPcpXRP-hUwXjAl0jrGCCLe4aAxkjCf7x9FEuY7CQ5QbszSqyFRI08XOFoe_ygPw8k2m0ohoItBxCLHYsb94YcXRvN_f9a3BHjdJB1Oztzpl1zvInkF4XmamyLFoiWpQP9IXlbM4OP7hIKfAlqaWFOCpnx9xBLd5o777R7B1q9PTL5-DevCG_NLjGgcHEHa97Iycp13Fz1fdWq3RV1fvDD63dViB9-Fpb3hsJZZIRYirUwj48v-3mHIN6m2DGLbsPbczrl7JERclBshCDauBSaIj-JpWEen9WYHQLfpcK7bg6-DJkEjwH0uRTJIkvDl7Y3HsGoF3kFc9LB4kc83R8hIehY0rBkICcezmRDq4vqW0QryRrHi2sXatKeJZ84pAYufiWMngV85tXeMNZap2m9r7mZBFmvabJvTK2A-fdYbI18lMxk7azdfSvC4hrbqr_MrnYsyaivq3LsVedJFpof1ogghF6jKMYmzfLwvjCdyKsHmkO1mggCJTGmeK2B_eJ-Dy0PxK7V5TISDy6UY99MH4RwexTxsvHITvWsjhl7g==&p=15&fvj=0&vjs=3",
+            "position": "Data Science Internship (Graduate)",
+            "type": "Data Science (Graduate)"
+        }
+    ],
+    "diffbotUri": "jobs|1|2115468792",
+    "type": "jobs",
+    "url": "https://www.indeed.com/jobs?q=computer+science+internship&l=New+York+State&jobs-internships=2"
 }

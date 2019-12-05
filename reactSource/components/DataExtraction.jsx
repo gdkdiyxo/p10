@@ -2,7 +2,7 @@
 
 import React from "react";
 import Button from "./Button";
-
+import Image from "./Image";
 
 class DataExtraction extends React.Component{
   constructor(props){
@@ -15,7 +15,9 @@ class DataExtraction extends React.Component{
   }
 
   componentDidMount(){
-    fetch("http://www.diffbot.com/api/jobs?token=55d3a8a3f2a71e3672c8e10333ec43ba&url=https%3A%2F%2Fwww.indeed.com%2Fjobs%3Fq%3Dcomputer%2Bscience%2Binternship%26l%3DNew%2BYork%2BState")
+    fetch("https://www.diffbot.com/api/jobs?token=55d3a8a3f2a71e3672c8e10333ec43ba&url=https%3A%2F%2Fwww.indeed.com%2Fjobs%3Fq%3Dcomputer%2Bscience%2Binternship%26l%3DNew%2BYork%2BState", {
+  credentials: 'same-origin'
+})
     .then(results => results.json())
     .then(
       (result) => {
@@ -37,18 +39,25 @@ class DataExtraction extends React.Component{
   render(props){
     const { error, isLoaded, jobs} = this.state;
     if (error){
-      return <div>Error: {error.message}</div>;
+      return <tr>Error: {error.message}</tr>;
     } else if(!isLoaded){
-      return <h2>Loading...</h2>;
+      return <tbody>LOADING THE LATEST OPORTUNITIES FOR YOU...</tbody>;
     } else {
+
+
+
+
       return(
         <tbody>
-          {jobs.map(job => (
+          {jobs.map(job =>
+            (
+
             <tr key={job.position} className="listing">
-            <td>Picture></td>
+
+            <td> <Image /> </td>
             <td> {job.position} </td>
             <td> {job.type} </td>
-            <td> <a href={job.link} target="_blank"> <Button name="Greatness"/></a> </td>
+            <td> <a href={job.link} target="_blank" rel="noopener noreferrer"> <Button name="Apply Now"/></a> </td>
 
             </tr>
           ))}

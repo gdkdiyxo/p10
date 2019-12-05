@@ -2,12 +2,13 @@
 
 import React from 'react';
 import './App.css';
-import Heading from "./components/Heading";
+//import Heading from "./components/Heading";
 import NavBar from "./components/NavBar";
 import SearchTool from "./components/SearchTool";
 import Table from "./components/Table";
-import DataExtraction from "./components/DataExtraction";
-import Button from "./components/Button";
+//import DataExtraction from "./components/DataExtraction";
+//import Button from "./components/Button";
+import Footer from "./components/Footer"
 
 
 
@@ -15,10 +16,10 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Heading />
+
       <SearchTool />
       <Table />
-
+      <Footer />
 
     </div>
   );
@@ -29,5 +30,5 @@ function App() {
 export default App;
 
 
-//<a href="../public/index2.html"> <Button name="Page 2"/></a>
-//<a href="../public/index3.html"> <Button name="Page 3"/></a>
+//<a href="../public/index2.html" target="_blank"> <Button name="Page 2"/></a>
+//<a href="../public/index3.html" target="_blank"> <Button name="Page 3"/></a>
