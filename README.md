@@ -10,9 +10,11 @@ for internships. Based on the user's preferences and skills, it makes a vast amo
 you. Using iCIMS, you are undoubtedly assured to attain an internship.
 [ICIMS](https://www.icims.com/)
 
+http://cs491project.s3-website.us-east-2.amazonaws.com/#
+
 ### Contributors
-* Amy Tenegelics
-* David Balladares
-* Ira Streeter
+* Amy Tenegelics - Team Leader
+* David Balladares - Software Developer
+* Ira Streeter - Project Manager
 
 
